@@ -3,10 +3,10 @@ I saw some parts of this code on the internet. I forgot where. If it's yours
 let me know and I'll credit you.
 */
 
-const VERSION_CHECK_SUPPORTED = "Your iOS version is supported! &#x1f60a;";
-const VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s &#x1f615;";
-const VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s &#x1f601;";
-const VERSION_CHECK_UNSUPPORTED = "Only compatible with iOS %s to %s &#x1f61e;";
+const VERSION_CHECK_SUPPORTED = "Sizin iOS versiyanız dəstəklənir! &#x1f60a;";
+const VERSION_CHECK_NEEDS_UPGRADE = "Ən azı iOS tələb edir %s &#x1f615;";
+const VERSION_CHECK_UNCONFIRMED = "Henüz iOS'ta test edilmədi %s &#x1f601;";
+const VERSION_CHECK_UNSUPPORTED = "Yalnız iOS ilə uyğun gəlir %s to %s &#x1f61e;";
 
 function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 	"use strict";	
