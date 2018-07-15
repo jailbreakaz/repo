@@ -12,7 +12,7 @@
 		<package>com.chewitt.mc</package>
 		<package>winterboard</package>
 	</dependencies>
-	<Məlumat>
+	<description>
 		<description>BatteryLife- Ən vacib tweaklərdən biri.</description>
 		<description>Cihaz batareyasının vəziyyəti haqda dolğun məlumat əldə edə bilərsiniz..</description>
 	</descriptionlist>
