@@ -1,10 +1,10 @@
 <package>
-	<id>com.decimation.slashes</id>
+	<id>com.watusi2aze</id>
 	<name>Full Package</name>
-	<version>1.1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<maxiOS>10.0</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,8 +13,8 @@
 		<package>winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Vertical slashes for Messages.</description>
-		<description>Enable bubble outlines in Messages Customiser.</description>
+		<description>Watusi 2 Aze.</description>
+		<description>Watusi 2 Azərbaycanca dəstək paketi.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -25,20 +25,5 @@
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Reddit</name>
-			<url>https://www.reddit.com/u/_Decimation</url>
-		</link>
-		
-		<link>
-			<name>Twitter</name>
-			<url>https://twitter.com/dec1mati0n</url>
-		</link>
-		
-		<link>
-			<name>/r/iosthemes WIP thread</name>
-			<url>https://www.reddit.com/r/iOSthemes/comments/3bwq5q/wip_slashes_for_messages/</url>
-		</link>
-	</links>
+	
 </package>
