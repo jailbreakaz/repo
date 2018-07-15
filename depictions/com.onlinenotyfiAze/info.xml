@@ -4,7 +4,7 @@
 	<version>1.2</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>10.0</maxiOS>
+			<maxiOS>11.3.1</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,7 +13,7 @@
 		<package>winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Vertical slashes for Messages.</description>
+		<description>OnlineNotify Haqqında bilməniz gərəkli əsas məqamlar.</description>
 		<description>Xüsusiyyətləri
 • Seçilmiş kontaktların onlayn / offline olduğunda WhatsApp daxilində və xaricində bildirişlər alın. (Yalnız qeydiyyatdan keçmiş istifadəçilərə daxil olmaq üçün seçdiyiniz əlaqələr üçün çalışır)
 • Kontaktlarınızdan hər hansı bir mesaj yazmağa başlayanda bildirişlər alın. (Seçdiyiniz üçün 'Yazmağa' imkan vermədiyiniz müddətcə bütün kontaktlarınız üzərində işləyir)
