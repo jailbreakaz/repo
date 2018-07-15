@@ -1,10 +1,10 @@
 <package>
-	<id>com.decimation.slashes</id>
+	<id>com.onlinenotyfiAze</id>
 	<name>Full Package</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<maxiOS>10.0</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -14,7 +14,27 @@
 	</dependencies>
 	<descriptionlist>
 		<description>Vertical slashes for Messages.</description>
-		<description>Enable bubble outlines in Messages Customiser.</description>
+		<description>Xüsusiyyətləri
+• Seçilmiş kontaktların onlayn / offline olduğunda WhatsApp daxilində və xaricində bildirişlər alın. (Yalnız qeydiyyatdan keçmiş istifadəçilərə daxil olmaq üçün seçdiyiniz əlaqələr üçün çalışır)
+• Kontaktlarınızdan hər hansı bir mesaj yazmağa başlayanda bildirişlər alın. (Seçdiyiniz üçün 'Yazmağa' imkan vermədiyiniz müddətcə bütün kontaktlarınız üzərində işləyir)
+• Kontaktınız ona göndərdiyiniz mesajları oxuduğunda bildirişlər alın.
+• Favoriler siyahısı və Goup Məlumatı Səhifə: Kontaktların vəziyyətlərini gecikmə ilə dəyişdirin və onlayn kontaktlar yanında onlayn göstərici əlavə edin.
+• Çatlar siyahısında onlayn istifadəçilərin yanında online bir göstərici əlavə edin.
+
+XƏBƏRDARLIQ!
+Satın almadan əvvəl bilməli olduğunuz bir neçə şey var
+
+• Xarici xəbərdarlıqların işə yaraması üçün WhatsApp internetə qoşulmalı və fonda işləməlidir, başqa bir sözlə, xaricdən gələn bildirişləri tətbiq edərkən WhatsApp-da "Online" olaraq göstəriləcəkdir.
+• Bildiyiniz kimi, iPhone kilidləndikdə, WiFi söndürüləcək, WhatsApp-dan uzaqlaşacaq və xaricdən gələn xəbərdarlıqlar dayandırılacaq. Bunun qarşısını almaq üçün, Xarici Xəbərdarlıqlar effektiv olduğunuzda, OnlineNotify cihazı kilidləndikdə WiFi-ni söndürməyə mane olacaq.
+• Xarici xəbərdarlıqlar batareyanın istehlakını bir qədər artırır.
+• Watusi və ya hər hansı digər çimdikdən istifadə edərək, gecikəninizi gizlətdiyiniz halda OnlineNotify işləməyəcəkdir.
+
+Təlimatlar
+• OnlineNotify parametrləri WhatsApp ayarları səhifəsinin içindədir
+• OnlineNotify-i WhatsApp versiyasında OnlineNotify-də cihazınızın Ayarlar tətbiqinə keçərək versiyasını qoşula bilərsiniz.
+
+Qeyd
+WhatsApp bağlı deyilsə, çimdik hər 10 dəqiqə bir bildiriş verəcəkdir..</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
