@@ -15,7 +15,23 @@
 
 <body>
     <main>
-      <div>  "#packageVersion" :
+      <script type="text/javascript">
+  
+	bundleid = $.QueryString['p'];	
+
+    var contentBlocks = 	{
+    	"#packageName" :
+			{"type":"text","source":"package>name"}
+		,"#packageHeader" : 
+			{"type":"custom"
+				,"source":"package>name"
+				,"render":function(element,source){
+					if (navigator.userAgent.search(/Cydia/) != -1) {
+						$(element).hide();
+					}
+				}
+			}
+		,"#packageVersion" :
 			{"type":"text","source":"package>version"}
 		,"#compatibilityCheck" :
 			{"type":"custom"
@@ -28,7 +44,12 @@
 						function(message,isBad) {
 							$(element).html(message)
 							.addClass( (isBad?'alert-danger':'alert-success'));
-        </div>
+						}
+					);
+					if(res==0) {$(element).hide()}
+				}
+			}
+</script>
                 <div class="row">
                     <div class="col s12 m8">
                         <ul class="collapsible popout">
