@@ -5,10 +5,8 @@
 		"maxiOS": "11.3.1"
     },
     "dependencies": [
-        "MobileSubstrate",
-        "PreferenceLoader",
-        "AppList",
-        "Flipswitch",
+        "16.07.2018",
+      
 		"RocketBootstrap"
     ],
     "description": [
