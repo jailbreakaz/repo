@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "compatibility": {
         "miniOS": "9.0",
 		"maxiOS": "11.3.1"
