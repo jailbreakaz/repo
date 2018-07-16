@@ -15,8 +15,20 @@
 
 <body>
     <main>
-        
-
+      <div>  "#packageVersion" :
+			{"type":"text","source":"package>version"}
+		,"#compatibilityCheck" :
+			{"type":"custom"
+				,"source":"package>compatibility>firmware"
+				,"render":function(element,source){
+					var res = ios_version_check(
+						$(source).find("miniOS").text(),
+						$(source).find("maxiOS").text(),
+						$(source).find("otherVersions").text(),
+						function(message,isBad) {
+							$(element).html(message)
+							.addClass( (isBad?'alert-danger':'alert-success'));
+        </div>
                 <div class="row">
                     <div class="col s12 m8">
                         <ul class="collapsible popout">
