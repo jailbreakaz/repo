@@ -4,9 +4,9 @@
         "miniOS": "8.0"
     },
     "dependencies": [
-        "MobileSubstrate",
-        "MultiplexerCore",
-        "Empoleon"
+        "",
+        "",
+        ""
     ],
     "description": [
         "Watusi 2 Azərbaycanca dəstək paketi.",
