@@ -5,9 +5,9 @@ let me know and I'll credit you.
 */
 const NOT_IOS_DEVICE = "Not an iOS device, can't check version.";
 
-const VERSION_CHECK_SUPPORTED = "Your iOS version is supported! 😊";
-const VERSION_CHECK_NEEDS_UPGRADE = "Requires at least iOS %s 😕";
-const VERSION_CHECK_UNCONFIRMED = "Not yet tested on iOS %s 😕";
+const VERSION_CHECK_SUPPORTED = "Sizin iOS versiyanız dəstəklənir! 😊";
+const VERSION_CHECK_NEEDS_UPGRADE = "Ən azı iOS tələb edir %s 😕";
+const VERSION_CHECK_UNCONFIRMED = "Hazırda  bu iOS'ta test edilmədi %s 😕";
 
 function checkIOSVersion(minIOS, maxIOS) {
     var iOS = parseFloat(
