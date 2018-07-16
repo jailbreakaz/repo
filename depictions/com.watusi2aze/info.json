@@ -6,7 +6,10 @@
     },
     "dependencies": [
         "16.07.2018",
-      
+        "PreferenceLoader",
+        "AppList",
+        "Flipswitch",
+		"RocketBootstrap"
     ],
     "description": [
         "Watusi 2 Azərbaycanca dəstək paketi.",
