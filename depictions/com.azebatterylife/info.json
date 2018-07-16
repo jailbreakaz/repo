@@ -1,7 +1,7 @@
 {
     "version": "1.0.0~rc1",
     "compatibility": {
-        "miniOS": "8.0"
+        "maxiOS": "11.3.1"
     },
     "dependencies": [
         "MobileSubstrate",
@@ -9,8 +9,8 @@
         "Empoleon"
     ],
     "description": [
-        "MissionControl for Multiplexer.",
-        "In Beta, Email me issues."
+        "Ən vacib tweaklərdən biri. Cihaz batareyasının vəziyyəti haqda dolğun məlumat əldə edə bilərsiniz..",
+        "Developer Azad Quluzadə."
     ],
     "changelog": "Fixed behavior inside apps."
 }
