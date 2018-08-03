@@ -109,3 +109,18 @@ Description: Azərbaycan dilinin dəstəyini alır..
 Author: Saleh Ağa-yev <saleh.agamali@gmail.com>
 Name: AudioRecorder2 Az
 
+
+Package: com.jailbreaktr.audiorecorder
+Version: 1.6.6
+Architecture: iphoneos-arm
+Maintainer: test <saleh.agamali@gmail.com>
+Filename: /debs/com.jailbreaktr.audiorecorder2_1.6-6_iphoneos-arm.deb
+Size: 3817026
+MD5sum: d30afc5340981105983dedbf56854626
+SHA1: 7860c01427bf279b1def74fff86f14e6c40d2f48
+SHA256: 2c1435dd46a42feca8af14a38f09fc7e133487a64fdeca0e89c26c98deef4757
+Section: Tweaks
+Description: Azərbaycan dilinin dəstəyini alır..
+Author: test <saleh.agamali@gmail.com>
+Name: AudioRecorder2 TR
+
