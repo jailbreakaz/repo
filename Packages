@@ -1,34 +1,3 @@
-Package: com.Azebatterylife
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakAze <azdglzdh@gmail.com>
-Depends: firmware (>7.0)
-Filename: ./debs/com.Azebatterylife_1.0.0_iphoneos-arm.deb
-Size: 2618744
-MD5sum: cfbebb70754b97f54659d91970099667
-SHA1: 07ee29645506f3495720a4763e218847e5848a50
-SHA256: 16c6d8490005dcbb86f147a52670989667744b6f7b26965e6f82b903ad5b1443
-Section: Tweaks
-Description: Azərbaycan dilində tərcümə olunmuş Tweak
-Author: Azad Quluzade <azdglzdh@gmail.com>
-Name: BatteryLife Aze
-Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.azebatterylife
-
-Package: com.Azebatterylife
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: JailbreakAze <azdglzdh@gmail.com>
-Depends: firmware (>7.0)
-Filename: ./debs/com.Azebatterylife_1.0.1_iphoneos-arm.deb
-Size: 2618744
-MD5sum: cfbebb70754b97f54659d91970099667
-SHA1: 07ee29645506f3495720a4763e218847e5848a50
-SHA256: 16c6d8490005dcbb86f147a52670989667744b6f7b26965e6f82b903ad5b1443
-Section: Tweaks
-Description: Azərbaycan dilində tərcümə olunmuş Tweak
-Author: Azad Quluzade <azdglzdh@gmail.com>
-Name: BatteryLife Aze
-Depiction: https://jailbreakaz.github.io/repo/depictions/com.azebatterylife/index.html
 
 Package: com.Azebatterylife
 Version: 1.7.0
@@ -95,23 +64,6 @@ Name: Watusi 2 Azərbaycanca
 Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.watusi2aze
 
 Package: com.PaletteAz
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
-Depends: firmware (>7.0)
-Filename: ./debs/com.PaletteAz_1.0.0_iphoneos-arm.deb
-Size: 1812
-MD5sum: 84174bdc68a2c31af78afddbdf863f3d
-SHA1: 08462a8f364089ad25bbedcdb088d7af8895d518
-SHA256: 9f31534d4d8a82bf06977696C0966808f9725e64bd4fb531d55eca147b8d4bfb
-Section: Tweaks
-Description: Azərbaycan dilində tərcümə olunmuş Tweak
-Author: Elvin Isco <mrelvin25@gmail.com>
-Name: Palette Az
-Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.paletteaz
-
-
-Package: com.PaletteAz
 Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: JailbreakAze <aziz.mikayil@hotmail.com>
@@ -142,22 +94,6 @@ Description: Azərbaycan dilində tərcümə olunmuş Tweak
 Author: Elvin Isco <mrelvin25@gmail.com>
 Name: Noctis Xİ Aze
 Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.noctisxiaz
-
-
-Package: com.jailbreakaz.azaudiorecorder2
-Version: 1.6-6k
-Architecture: iphoneos-arm
-Maintainer: Saleh <saleh.agamali@gmail.com>
-Filename: /debs/com.jailbreakaz.azaudiorecorder2_1.6-6k_iphoneos-arm.deb
-Size: 2466580
-MD5sum: c49bcd3dd7738607d0b3a8df1fb757a1
-SHA1: ace10291fc842e3be96281fe04c01ef3bc9866ae
-SHA256: 525bd9d5bccd482da27a0afb76b8df834a48b6d20854e4d4b494c4d41090fdd3
-Section: Tweaks
-Description: An awesome mobile substrate tweak
-Author: Saleh <saleh.agamali@gmail.com>
-Name: AudioRecorder 2 Az
-
 
 Package: com.jailbreakaz.audiorecorder2
 Version: 1.7
