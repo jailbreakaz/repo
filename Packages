@@ -96,20 +96,17 @@ Name: Noctis Xİ Aze
 Depiction: https://jailbreakaz.github.io/repo/depictions/index.html?p=com.noctisxiaz
 
 
-
-
-Package: com.jailbreaktr.audiorecorder2
-Version: 1.6-6k
+Package: com.jailbreakaz.audiorecorder2
+Version: 1.7
 Architecture: iphoneos-arm
-Maintainer: test <saleh.agamali@gmail.com>
-Filename: /debs/com.jailbreaktr.audiorecorder2_1.6-6_iphoneos-arm.deb
-Conflict: Update
-Size: 3817026
-MD5sum: d30afc5340981105983dedbf56854626
-SHA1: 7860c01427bf279b1def74fff86f14e6c40d2f48
-SHA256: 2c1435dd46a42feca8af14a38f09fc7e133487a64fdeca0e89c26c98deef4757
+Maintainer: Saleh <saleh.agamali@gmail.com>
+Filename: /debs/com.jailbreakaz.audiorecorder2_1.7_iphoneos-arm.deb
+Size: 2466592
+MD5sum: 4305379419ebd3a1be65069bf02fa3ed
+SHA1: 2f974f9d5f01d82b383f0a8840e87c7d8ab12d88
+SHA256: 8561f314ddf059381d688ab11f6e6d39ead0a73811575f6443be0eca9706e0e0
 Section: Tweaks
 Description: Azərbaycan dilinin dəstəyini alır..
-Author: test <saleh.agamali@gmail.com>
-Name: AudioRecorder2 TR
+Author: Saleh Ağa-yev <saleh.agamali@gmail.com>
+Name: AudioRecorder2 Az
 
