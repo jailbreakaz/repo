@@ -115,6 +115,7 @@ Version: 1.6.6
 Architecture: iphoneos-arm
 Maintainer: test <saleh.agamali@gmail.com>
 Filename: /debs/com.jailbreaktr.audiorecorder2_1.6-6_iphoneos-arm.deb
+Conflict: Update
 Size: 3817026
 MD5sum: d30afc5340981105983dedbf56854626
 SHA1: 7860c01427bf279b1def74fff86f14e6c40d2f48
