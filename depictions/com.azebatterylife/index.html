@@ -131,5 +131,33 @@
         </div>
         <div id="__next-error"></div>
     </div>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+    <script src="src/ios_version_check.js"></script>
+    <script type="text/javascript" src="src/script.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            var name = getUrlParams('p');
+            var URL = name + "/info.json";
+            $.getJSON(URL, function(data) {
+                var miniOS = data.compatibility.miniOS;
+                var maxiOS = data.compatibility.maxiOS;
+                var banner = checkIOSVersion(miniOS, maxiOS);
+                $("#compatibilityCheck").text(banner);
+                $("#changelog").text(data.changelog);
+                $("#badge").html(data.version);
+                $("#screenshotLink").attr('href', 'screenshots?p=' + name);
+                $("#changelogLink").attr('href', 'changelog?p=' + name);
+                for (i in data.dependencies) {
+                    var package = data.dependencies[i];
+                    $("#dependencies").append('<div class="collapsible-body"><p>' + package + '</p></div>');
+                }
+                for (i in data.description) {
+                    var description = data.description[i];
+                    $("#description").append('<div class="collapsible-body"><p>' + description + '</p></div>');
+                }
+            });
+        });
+    </script>
 </body>
 </html>
